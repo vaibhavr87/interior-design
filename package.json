@@ -1,0 +1,8 @@
+{
+  "name": "interior-design",
+  "version": "1.0.0",
+  "description": "Interior design project using the Nano Banana Gemini CLI extension for AI image generation",
+  "scripts": {
+    "setup": "gemini extensions install https://github.com/gemini-cli-extensions/nanobanana"
+  }
+}
